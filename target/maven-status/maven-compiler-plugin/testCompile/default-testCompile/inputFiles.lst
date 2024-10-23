@@ -1,0 +1,12 @@
+/home/pbankai/Descargas/HappyHotelApp/src/test/java/com/mockitotutorial/happyhotel/booking/Test001Equivalencies.java
+/home/pbankai/Descargas/HappyHotelApp/src/test/java/com/mockitotutorial/happyhotel/booking/Test00SanityCheck.java
+/home/pbankai/Descargas/HappyHotelApp/src/test/java/com/mockitotutorial/happyhotel/booking/Test01CalculatePrice.java
+/home/pbankai/Descargas/HappyHotelApp/src/test/java/com/mockitotutorial/happyhotel/booking/Test02DefaultValues.java
+/home/pbankai/Descargas/HappyHotelApp/src/test/java/com/mockitotutorial/happyhotel/booking/Test03CustomValues.java
+/home/pbankai/Descargas/HappyHotelApp/src/test/java/com/mockitotutorial/happyhotel/booking/Test04MultipleThenReturn.java
+/home/pbankai/Descargas/HappyHotelApp/src/test/java/com/mockitotutorial/happyhotel/booking/Test05ThrowException.java
+/home/pbankai/Descargas/HappyHotelApp/src/test/java/com/mockitotutorial/happyhotel/booking/Test06ThrowExceptionMatchers.java
+/home/pbankai/Descargas/HappyHotelApp/src/test/java/com/mockitotutorial/happyhotel/booking/Test07BehaviourValidations.java
+/home/pbankai/Descargas/HappyHotelApp/src/test/java/com/mockitotutorial/happyhotel/booking/Test08miniespías2LaIslaCalavera.java
+/home/pbankai/Descargas/HappyHotelApp/src/test/java/com/mockitotutorial/happyhotel/booking/Test09VoidMethods.java
+/home/pbankai/Descargas/HappyHotelApp/src/test/java/com/mockitotutorial/happyhotel/booking/Test10ArgumentCaptor.java
